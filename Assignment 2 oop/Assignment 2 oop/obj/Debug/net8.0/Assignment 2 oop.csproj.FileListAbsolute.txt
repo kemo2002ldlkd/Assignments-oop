@@ -1,0 +1,14 @@
+F:\Assignment 2 oop\Assignment 2 oop\bin\Debug\net8.0\Assignment 2 oop.exe
+F:\Assignment 2 oop\Assignment 2 oop\bin\Debug\net8.0\Assignment 2 oop.deps.json
+F:\Assignment 2 oop\Assignment 2 oop\bin\Debug\net8.0\Assignment 2 oop.runtimeconfig.json
+F:\Assignment 2 oop\Assignment 2 oop\bin\Debug\net8.0\Assignment 2 oop.dll
+F:\Assignment 2 oop\Assignment 2 oop\bin\Debug\net8.0\Assignment 2 oop.pdb
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\Assignment 2 oop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\Assignment 2 oop.AssemblyInfoInputs.cache
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\Assignment 2 oop.AssemblyInfo.cs
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\Assignment 2 oop.csproj.CoreCompileInputs.cache
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\Assignment 2 oop.dll
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\refint\Assignment 2 oop.dll
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\Assignment 2 oop.pdb
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\Assignment 2 oop.genruntimeconfig.cache
+F:\Assignment 2 oop\Assignment 2 oop\obj\Debug\net8.0\ref\Assignment 2 oop.dll
